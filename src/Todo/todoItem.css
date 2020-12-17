@@ -1,0 +1,14 @@
+.element {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+  border: 1px solid #ccc;
+}
+
+.input {
+  margin: 0 5px;
+}
+
+.completed {
+  text-decoration: line-through;
+}
